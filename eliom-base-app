@@ -1,0 +1,63 @@
+base-bigarray	base	root
+base-bytes	base	installed
+base-ocamlbuild	base	root
+base-threads	base	root
+base-unix	base	root
+base64	2.0.0	installed
+calendar	2.03.2	installed
+camlp4	4.02+7	installed
+cmdliner	0.9.8	installed
+conf-libpcre	1	installed
+conf-m4	1	installed
+conf-openssl	1	installed
+conf-pkg-config	1.0	installed
+conf-which	1	installed
+conf-zlib	1	installed
+cppo	1.3.2	installed
+cryptokit	1.10	installed
+csv	1.5	installed
+dbm	1.0	installed
+depext	0.9.1	root
+deriving	0.7.1	installed
+eba	dev	root	git	https://github.com/ocsigen/eliom-base-app.git
+eliom	dev	installed	git	https://github.com/ocsigen/eliom.git
+imagemagick	0.34-1	installed
+ipaddr	2.7.0	installed
+js-build-tools	113.33.04	installed
+js_of_ocaml	2.8.1	installed
+lwt	2.5.2	installed
+macaque	0.7.4	installed
+menhir	20160526	installed
+oasis	0.4.6	installed
+ocaml-data-notation	0.0.11	installed
+ocamlbuild	0	installed
+ocamlfind	1.6.2	installed
+ocamlify	0.0.1	installed
+ocamlmod	0.0.8	installed
+ocamlnet	4.0.4	installed
+ocsigen-toolkit	dev	installed	git	https://github.com/ocsigen/ocsigen-toolkit.git
+ocsigen-widgets	dev	installed	git	https://github.com/ocsigen/ocsigen-widgets.git
+ocsigenserver	dev	root	git	https://github.com/ocsigen/ocsigenserver.git
+ojquery	dev	root	git	https://github.com/ocsigen/ojquery.git
+optcomp	1.6	installed
+pcre	7.2.3	installed
+pgocaml	2.3	installed
+ppx_core	113.33.03	installed
+ppx_deriving	4.0	installed
+ppx_driver	113.33.03	installed
+ppx_optcomp	113.33.03	installed
+ppx_sexp_conv	113.33.03	installed
+ppx_tools	5.0+4.02.0	root
+ppx_type_conv	113.33.03	installed
+re	1.6.1	installed
+react	1.2.0	installed
+reactiveData	0.2	installed
+result	1.2	installed
+safepass	2.0	installed
+sexplib	113.33.03	installed
+sqlite3	4.0.5	installed
+ssl	0.5.2	installed
+text	0.8.0	installed
+type_conv	113.00.02	installed
+tyxml	4.0.0	installed
+uutf	0.9.4	installed
