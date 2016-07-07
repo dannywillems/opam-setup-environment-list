@@ -17,3 +17,4 @@ installed package. Use ```opam switch [compiler_version] to do it**
 ## List
 
 * [eliom-base-app](https://raw.githubusercontent.com/dannywillems/opam-setup-environment-list/master/eliom-base-app). *Prerequisite:* libmagickcore-dev
+* [eliom-dev](https://raw.githubusercontent.com/dannywillems/opam-setup-environment-list/master/eliom-dev)
